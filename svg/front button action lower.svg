@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="110mm"
+   viewBox="0 0 150 110"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="front button action lower.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="367.15203"
+     inkscape:cy="233.74894"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       units="mm"
+       spacingx="0.25"
+       spacingy="0.25"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path998"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.73438,89.357422 c -0.96612,0 -1.93354,0.371037 -2.67383,1.111328 l -12.02539,12.02539 c -1.480585,1.48058 -1.480585,3.86512 0,5.3457 1.48058,1.48059 3.86316,1.48059 5.34375,0 L 117.40625,95.8125 c 1.48058,-1.480581 1.48058,-3.863169 0,-5.34375 -0.74029,-0.740291 -1.70576,-1.111328 -2.67187,-1.111328 z M 84,120.0918 c -0.966119,0 -1.933537,0.36908 -2.673828,1.10937 l -18.707031,18.70899 c -1.480582,1.48058 -1.480582,3.86316 0,5.34375 1.480581,1.48058 3.865121,1.48058 5.345703,0 l 18.707031,-18.70703 c 1.480581,-1.48059 1.480581,-3.86513 0,-5.34571 C 85.931584,120.46088 84.966119,120.0918 84,120.0918 Z m -37.416016,37.41601 c -0.966119,0 -1.931584,0.36909 -2.671875,1.10938 l -12.027343,12.02734 c -1.480582,1.48058 -1.480582,3.86317 0,5.34375 1.480581,1.48058 3.865121,1.48058 5.345703,0 l 12.02539,-12.02539 c 1.480582,-1.48058 1.480582,-3.86512 0,-5.3457 -0.74029,-0.74029 -1.705755,-1.10938 -2.671875,-1.10938 z m 415.720706,49.67578 c -0.96612,0 -1.93354,0.36909 -2.67383,1.10938 -1.48058,1.48058 -1.48058,3.86512 0,5.3457 l 9.35547,9.35352 c 1.48058,1.48058 3.86317,1.48058 5.34375,0 1.48058,-1.48058 1.48058,-3.86512 0,-5.34571 l -9.35352,-9.35351 c -0.74029,-0.74029 -1.70575,-1.10938 -2.67187,-1.10938 z m 78.85547,0 c -0.96612,0 -1.93159,0.36909 -2.67188,1.10938 l -9.35351,9.35351 c -1.48059,1.48059 -1.48059,3.86513 0,5.34571 1.48058,1.48058 3.86316,1.48058 5.34375,0 l 9.35351,-9.35352 c 1.48058,-1.48058 1.48058,-3.86512 0,-5.3457 -0.74029,-0.74029 -1.70575,-1.10938 -2.67187,-1.10938 z m -69.50196,69.50196 c -0.96612,0 -1.93158,0.36908 -2.67187,1.10937 l -9.35547,9.35352 c -1.48058,1.48058 -1.48058,3.86512 0,5.3457 1.48058,1.48058 3.86512,1.48058 5.3457,0 l 9.35352,-9.35352 c 1.48058,-1.48058 1.48058,-3.86512 0,-5.3457 -0.74029,-0.74029 -1.70576,-1.10937 -2.67188,-1.10937 z m 60.14844,0 c -0.96612,0 -1.93158,0.36908 -2.67187,1.10937 -1.48059,1.48058 -1.48059,3.86512 0,5.3457 l 9.35351,9.35352 c 1.48058,1.48058 3.86317,1.48058 5.34375,0 1.48058,-1.48058 1.48058,-3.86512 0,-5.3457 l -9.35351,-9.35352 c -0.7403,-0.74029 -1.70576,-1.10937 -2.67188,-1.10937 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="sscssssssccsscssssssssssssccsssssssssssssccsssssssssssss" />
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150mm"
+   height="110mm"
+   viewBox="0 0 150 110"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="back stick pillars.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2176894"
+     inkscape:cx="283.40308"
+     inkscape:cy="207.87402"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       units="mm"
+       spacingx="0.25"
+       spacingy="0.25"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#c83771;fill-rule:evenodd;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 129.29297,69.292969 -6,6 a 1.0001,1.0001 0 0 0 0,1.414062 l 6,6 a 1.0001,1.0001 0 0 0 1.41406,0 l 6,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 l -6,-6 a 1.0001,1.0001 0 0 0 -1.41406,0 z M 130,71.414062 134.58594,76 130,80.585937 125.41406,76 Z"
+       id="path6002" />
+    <path
+       style="color:#000000;fill:#c83771;fill-rule:evenodd;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 16.292969,38.292969 -4,4 A 1.0001,1.0001 0 0 0 12,43 v 4 a 1.0001,1.0001 0 0 0 0.292969,0.707031 l 4,4 a 1.0001,1.0001 0 0 0 1.414062,0 l 6,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 l -6,-6 a 1.0001,1.0001 0 0 0 -1.414062,0 z M 17,40.414062 21.585937,45 17,49.585937 l -3,-3 v -3.171875 z"
+       id="path6002-7" />
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="110mm"
+   viewBox="0 0 150 110"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="back pillars.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3139015"
+     inkscape:cx="283.46457"
+     inkscape:cy="207.87402"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       units="mm"
+       spacingx="0.25"
+       spacingy="0.25"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect955"
+       style="fill:#800080;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 65.197266 246.61328 C 63.103412 246.61328 61.417969 248.30067 61.417969 250.39453 L 61.417969 284.41016 L 22.677734 284.41016 C 20.583876 284.41016 18.898438 286.0956 18.898438 288.18945 C 18.898438 290.28331 20.583876 291.96875 22.677734 291.96875 L 61.417969 291.96875 L 61.417969 325.98438 C 61.417969 328.07823 63.103412 329.76367 65.197266 329.76367 C 67.29112 329.76367 68.976562 328.07823 68.976562 325.98438 L 68.976562 291.96875 L 102.99219 291.96875 C 105.08605 291.96875 106.77148 290.28331 106.77148 288.18945 C 106.77148 286.0956 105.08605 284.41016 102.99219 284.41016 L 68.976562 284.41016 L 68.976562 250.39453 C 68.976562 248.30067 67.29112 246.61328 65.197266 246.61328 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect1984"
+       style="fill:#800080;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 492.2832 125.66992 C 490.18935 125.66992 488.50391 127.35536 488.50391 129.44922 L 488.50391 167.24414 L 450.70898 167.24414 C 448.61513 167.24414 446.92969 168.92959 446.92969 171.02344 C 446.92969 173.11729 448.61513 174.80273 450.70898 174.80273 L 488.50391 174.80273 L 488.50391 212.59766 C 488.50391 214.69151 490.18935 216.37891 492.2832 216.37891 C 494.37706 216.37891 496.0625 214.69151 496.0625 212.59766 L 496.0625 174.80273 L 516.84961 174.80273 C 518.94347 174.80273 520.63086 173.11729 520.63086 171.02344 C 520.63086 168.92959 518.94347 167.24414 516.84961 167.24414 L 496.0625 167.24414 L 496.0625 129.44922 C 496.0625 127.35536 494.37706 125.66992 492.2832 125.66992 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
