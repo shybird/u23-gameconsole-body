@@ -59,7 +59,7 @@
  */
 
 // Stützstrukturen.
-support = true;
+support = false;
 
 // Abgerundete Kanten (aufwendig).
 rounded_corners = true;
@@ -530,7 +530,7 @@ if (support && !threaded_insert) {
     color(color_special)
     for (i = [0:3]) {
         translate([drill_pos[i][0], drill_pos[i][1], 0])
-            support(0.5);
+            support(0.75);
     }
 }
 
