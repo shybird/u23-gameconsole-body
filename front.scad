@@ -85,7 +85,7 @@ button_system_base = 2;
 button_action_size = 5;
 
 // Tatsächliche Höhe der Taster unter den Systembuttons.
-button_system_size = 4.3;
+button_system_size = 4.5;
 
 // Spiel der Buttons zwischen Taster und Decke.
 button_clearance = 0.2;
