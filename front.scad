@@ -100,7 +100,7 @@ led_y = true;
 led_gauge = true;
 
 // Aussparungen für die Analog-Sticks.
-analog_sticks = false;
+analog_sticks = true;
 
 
 /*************************************************************************
