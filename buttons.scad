@@ -33,7 +33,7 @@ include <colors.scad>;
 protrusion = 2;
 
 // Tiefe des Zeichnungen auf den Buttons.
-carving = 0.5;
+carving = 0.25;
 
 // Buttons haben runde Kanten. (Rechenaufwendiger.)
 beveled = true;
@@ -42,7 +42,7 @@ beveled = true;
 bevel_size = 1;
 
 // Spiel zwischen den Schulterbuttons und der Hülle.
-button_trigger_clearance = 0.5;
+button_trigger_clearance = 0.25;
 
 // Dicke der Schiene und Widerhaken der Schulterbuttons.
 // (5.8 mm - 3 mm) / 2 + 3 mm nach Datenblatt.
