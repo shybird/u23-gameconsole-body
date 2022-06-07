@@ -162,10 +162,6 @@ module border_pcb_cutouts() {
     // Vibrator.
     translate([28, 10 + 1, -1.5])
         cube([6, 1, 1.5]);
-
-    // Klinkenbuchse.
-    translate([77.5, 110 - 2, -1])
-        cube([13.5, 1, 1]);
 }
 
 // Die äußeren Teile: Front und Ränder.
