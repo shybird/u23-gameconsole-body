@@ -99,6 +99,9 @@ led_y = true;
 // LED-Pegel.
 led_gauge = true;
 
+// LED Logo.
+led_logo = true;
+
 // Aussparungen für die Analog-Sticks.
 analog_sticks = true;
 
@@ -135,6 +138,17 @@ module top_cutouts() {
     if (led_y) {
         linear_extrude(height=thickness) {
             import("./svg/front led y.svg");
+        }
+    }
+
+    // Power LED.
+    if (led_logo) {
+        linear_extrude(height=thickness) {
+            import("./svg/front led power logo.svg");
+        }
+    } else {
+        linear_extrude(height=thickness) {
+            import("./svg/front led power.svg");
         }
     }
 }
