@@ -162,6 +162,10 @@ module border_pcb_cutouts() {
     // Vibrator.
     translate([28, 10 + 1, -1.5])
         cube([6, 1, 1.5]);
+
+    // Batteriefach.
+    translate([47.5 - 2, 10 + 1, -1.5])
+        cube([4, 1, 1.5]);
 }
 
 // Die äußeren Teile: Front und Ränder.
