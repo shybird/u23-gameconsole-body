@@ -313,8 +313,9 @@ module border_cutouts() {
     if (space - border_height < limit_vib) {
         diff = limit_vib - (space - border_height);
 
-        translate([118.75, 2 - 0.1 + 15.6/2, border_height - diff])
-            cutout(depth=15.6 + 4, width=4.6 + 3.4, h1=diff, h2=diff);
+        // Größe und Position durch Versuch.
+        translate([119, 2 - 0.1 + 15.6/2, border_height - diff])
+            cutout(depth=36, width=4.6 + 3.4, h1=diff, h2=diff);
     }
 
     // Aussparungen am Rand neben den seitlichen Befestigungslöchern.
