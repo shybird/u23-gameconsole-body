@@ -218,7 +218,7 @@ module beveled_action(bevel=1) {
 
     // Schulterbuttons.
     color(color_buttons)
-    translate([56, 21, 0])
+    translate([52, 21, 0])
     rotate([0, 0, 180])
         trigger_button();
 
@@ -231,7 +231,7 @@ module beveled_action(bevel=1) {
     // Drucke drei Systembuttons nebeneinander.
     color(color_buttons)
     for (i = [0, 11, 22]) {
-        translate([12 + i, 8, 0])
+        translate([10 + i, 8, 0])
             system_button();
     }
 
