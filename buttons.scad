@@ -97,24 +97,24 @@ module system_button() {
     // Höhe, Basis, Breite.
     h = system_height;
     b = button_system_base;
-    w = 3;
+    w = 3.5;
 
     polyhedron(points = [
         // Unterseite
         [1, 0, 0],
-        [9, 0, 0],
-        [10, b, 0],
-        [8, b, 0],
-        [8, h, 0],
+        [9.5, 0, 0],
+        [10.5, b, 0],
+        [8.5, b, 0],
+        [8.5, h, 0],
         [2, h, 0],
         [2, b, 0],
         [0, b, 0],
         // Oberseite
         [1, 0, w],
-        [9, 0, w],
-        [10, b, w],
-        [8, b, w],
-        [8, h, w],
+        [9.5, 0, w],
+        [10.5, b, w],
+        [8.5, b, w],
+        [8.5, h, w],
         [2, h, w],
         [2, b, w],
         [0, b, w]
@@ -218,7 +218,7 @@ module beveled_action(bevel=1) {
 
     // Schulterbuttons.
     color(color_buttons)
-    translate([52, 21, 0])
+    translate([53, 21, 0])
     rotate([0, 0, 180])
         trigger_button();
 
@@ -230,14 +230,14 @@ module beveled_action(bevel=1) {
 
     // Drucke drei Systembuttons nebeneinander.
     color(color_buttons)
-    for (i = [0, 11, 22]) {
+    for (i = [0, 11.5, 23]) {
         translate([10 + i, 8, 0])
             system_button();
     }
 
     // Verbinde die dreit Buttons mit einem dünnen Steg.
     color(color_buttons)
-    translate([12 + 1, 8 + button_system_base / 2, 0])
-        cube([30, 1, 3]);
+    translate([10 + 1, 8 + button_system_base / 2, 0])
+        cube([30, 1, 3.5]);
 };
 
