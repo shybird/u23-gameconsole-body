@@ -384,6 +384,14 @@ module casing_front() {
         }
     }
 
+    // Schacht für den Lichtsensor.
+    color(color_struts)
+    translate([0, 0, thickness]) {
+        linear_extrude(height = space) {
+            import("./svg/front well.svg");
+        }
+    }
+
     // Verstärkungen für die Analog-Sticks.
     if (analog_sticks) {
         color(color_struts)

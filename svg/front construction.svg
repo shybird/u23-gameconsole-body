@@ -5,7 +5,7 @@
    viewBox="0 0 150 110"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="front construction.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -45,11 +45,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5129356"
-     inkscape:cx="283.5547"
+     inkscape:zoom="2.2345265"
+     inkscape:cx="283.28149"
      inkscape:cy="207.87402"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="true"
@@ -1030,6 +1030,11 @@
        cx="118.25"
        cy="23.5"
        r="3" />
+    <path
+       id="path522"
+       style="color:#000000;opacity:0.75;fill:#ff6600;fill-rule:evenodd;-inkscape-stroke:none"
+       d="m 118.25015,18.999874 c -2.4676,-2.8e-4 -4.49984,2.032385 -4.49999,4.499984 7.1e-4,1.385549 0.64116,2.697726 1.73426,3.549137 l 5.9893,4.668966 a 12,12 0 0 1 0.52607,-1.491899 l -5.58777,-4.356323 a 3,3 0 0 1 -0.006,-0.0047 3,3 0 0 1 -1.15652,-2.36523 3,3 0 0 1 3.00034,-2.999817 3,3 0 0 1 1.90066,0.678511 l 5.53506,4.315499 a 12,12 0 0 1 1.32033,-0.873332 l -5.90455,-4.603336 -0.006,-0.0036 c -0.803,-0.655271 -1.80862,-1.014056 -2.8453,-1.013891 z"
+       inkscape:label="well" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1204,7 +1209,7 @@
     <path
        id="path5966"
        style="color:#000000;fill:#aad400;fill-rule:evenodd;stroke-width:3.77953;-inkscape-stroke:none"
-       d="M 411.96875 128.50391 L 411.96875 136.0625 L 501.11133 136.0625 L 563.15039 198.09961 L 563.15039 187.41211 L 504.24219 128.50391 L 411.96875 128.50391 z "
+       d="m 411.96875,128.50391 v 7.55859 h 89.14258 l 62.03906,62.03711 v -10.6875 l -58.9082,-58.9082 z"
        transform="scale(0.26458333)" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#aad400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
